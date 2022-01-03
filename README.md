@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Mari(zilla)
-👀 Autodidata em Data Science e Data Analytics <br>
+👀 Autodidata em Desenvolvimento web <br>
 🌱 Estudante de Análise e Desenvolvimento de Sistemas <br>
 📫 Se quiser falar comigo mande um e-mail para devmarizilla@gmail.com
 
