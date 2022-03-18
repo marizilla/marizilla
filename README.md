@@ -1,7 +1,8 @@
-## Olá! Eu sou a Mari(zilla)
-👀 Autodidata em Desenvolvimento web <br>
-🌱 Estudante de Análise e Desenvolvimento de Sistemas <br>
-📫 Se quiser falar comigo mande um e-mail para devmarizilla@gmail.com
+## Fale *amigo* e entre...
+🖖 Seja bem-vinde, se sua intenção for sincera! <br>
+Esse é o espaço da Mari, 23 anos, graduanda em Análise e Desenvolvimento de Sistemas e apaixonada por desenvolvimento e tecnologia. <br>
+Aqui eu posto todos os meus projetos, tanto pessoais quanto profissionais, assim, consigo acompanhar minha evolução e assistir o resultado dos meus estudos. <br>
+Sinta-se à vontade para bisbilhotar tudo... Não se acanhe hehehe... 
 
 
 <div>
@@ -10,8 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizilla&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
   
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">
+  <img align="center" alt="Mari-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mari-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
+  <img align="center" alt="Mari-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
   <img align="right" alt="Mari-yoda" height="200" width="200" src="https://i.picasion.com/pic91/d6bec398a48b425207a4b3f790eceeb3.gif">
 </div>
   
