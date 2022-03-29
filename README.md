@@ -18,7 +18,7 @@ Sinta-se à vontade para bisbilhotar tudo... Não se acanhe hehehe...
   <img align="center" alt="Mari-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
   <img align="center" alt="Mari-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Mari-yoda" height="200" width="200" src="https://i.picasion.com/pic91/d6bec398a48b425207a4b3f790eceeb3.gif">
+  <img align="right" alt="Mari-yoda" height="200" width="200" src="https://i.picasion.com/pic92/8a5a92e23710306fa8fa08cacf64ef1b.gif">
 </div>
   
   ##
